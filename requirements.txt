@@ -1,0 +1,14 @@
+uvicorn
+fastapi
+python-dotenv
+psycopg2
+passlib
+python-jose
+python-multipart
+pydantic_settings
+
+notebook
+transformers
+torch
+
+# pip install --no-cache-dir transformers sentencepiece
