@@ -10,5 +10,7 @@ class Settings(BaseSettings):
     host: str
     port: int
 
+    nmt_name: str
+
 
 settings = Settings()
